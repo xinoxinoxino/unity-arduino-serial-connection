@@ -2,6 +2,4 @@ Unity is a 3d development tool
 
 = Unity =
 
-{{{
-Unity description here
-}}}
+http://unity3d.com/
