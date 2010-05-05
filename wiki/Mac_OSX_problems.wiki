@@ -1,4 +1,4 @@
-#Problems encountered when trying to get the project working on the Mac/OSX
+#summary Problems encountered when trying to get the project working on the Mac/OSX
 
 = Introduction =
 
