@@ -1,6 +1,6 @@
 #summary Step by step guides to get your connection up and running
 #labels step-by-step
-= The step by step guide =
+= The guides =
 
 For the English guide, look here:
   * http://docs.google.com/Doc?docid=0AfepXIkIWr6yZGM0bTljcXhfMjI1YzgzN2Y4bTQ&hl=en
