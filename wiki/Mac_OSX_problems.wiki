@@ -2,8 +2,8 @@
 
 = Introduction =
 
-For Mac/OSX users, I've made an implementation that uses System.Net.Sockets
-because the Mono implementation of System.IO.Ports is faulty on Mac.
+For Mac/OSX users, I've made an implementation that uses System.Net.Sockets because the Mono implementation of System.IO.Ports is faulty on Mac.
 
+Alas, even the System.Net.Sockets implementation doesn't work at the moment.
 
-= Details =
+== Details ==
