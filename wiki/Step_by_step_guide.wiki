@@ -1,9 +1,5 @@
-#summary Step by step guides to get your connection up and running
+#summary English step by step guide to get your connection up and running
 #labels step-by-step
-= The guides =
 
 === The English guide: ===
 <wiki:gadget url="http://achterhoofd.nl/googlecode/english_step_by_step_gadget.xml" width=630 height=600 border="1" />
-
-=== The Dutch guide: ===
-<wiki:gadget url="http://achterhoofd.nl/googlecode/dutch_step_by_step_gadget.xml" width=630 height=600 border="1" />
