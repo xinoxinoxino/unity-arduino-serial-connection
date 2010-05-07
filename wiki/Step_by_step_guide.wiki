@@ -2,7 +2,8 @@
 #labels step-by-step
 = The guides =
 
-For the English guide, look here:
-  * http://docs.google.com/Doc?docid=0AfepXIkIWr6yZGM0bTljcXhfMjI1YzgzN2Y4bTQ&hl=en
-For the Dutch guide, look here:
-  * http://docs.google.com/Doc?docid=0AfepXIkIWr6yZGM0bTljcXhfMjI0Y2c3cTYzY2Q&hl=en
+=== The English guide: ===
+<wiki:gadget url="http://achterhoofd.nl/googlecode/english_step_by_step_gadget.xml" width=630 height=600 border="1" />
+
+=== The Dutch guide: ===
+<wiki:gadget url="http://achterhoofd.nl/googlecode/english_step_by_step_gadget.xml" width=630 height=600 border="1" />
